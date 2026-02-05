@@ -1,0 +1,9 @@
+{
+  "drugs": {
+    "氨氯地平": { "aliases": ["氨氯地平","苯磺酸氨氯地平","络活喜","Norvasc","Amlodipine"], "priority": 10 },
+    "依那普利": { "aliases": ["依那普利","Enalapril"], "priority": 10 }
+  },
+  "populations": {
+    "孕妇": { "aliases": ["孕妇","妊娠","孕期","怀孕","妊娠期"], "priority": 5 }
+  }
+}

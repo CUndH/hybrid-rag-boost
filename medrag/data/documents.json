@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C1",
+    "title": "氨氯地平-适应症",
+    "text": "氨氯地平用于治疗高血压，可作为单药或联合治疗。",
+    "metadata": { "drug": ["氨氯地平"], "population": [], "section": "indication", "risk_level": "info" }
+  },
+  {
+    "id": "C2",
+    "title": "氨氯地平-用法用量",
+    "text": "成人常用剂量为每日一次口服，具体剂量由医生根据情况调整。",
+    "metadata": { "drug": ["氨氯地平"], "population": [], "section": "dosage", "risk_level": "info" }
+  },
+  {
+    "id": "C3",
+    "title": "妊娠期用药原则",
+    "text": "妊娠期用药需评估获益与风险，优先选择已有充分妊娠安全性证据的方案。",
+    "metadata": { "drug": [], "population": ["孕妇"], "section": "general_principle", "risk_level": "warning" }
+  },
+  {
+    "id": "C4",
+    "title": "氨氯地平-妊娠期注意",
+    "text": "妊娠期使用降压药需谨慎，若考虑使用氨氯地平应由医生评估并监测。",
+    "metadata": { "drug": ["氨氯地平"], "population": ["孕妇"], "section": "pregnancy_warning", "risk_level": "warning" }
+  },
+  {
+    "id": "E1",
+    "title": "依那普利-妊娠禁用",
+    "text": "ACEI类药物如依那普利在妊娠期禁用，可能对胎儿造成风险。",
+    "metadata": { "drug": ["依那普利"], "population": ["孕妇"], "section": "contraindication", "risk_level": "contra" }
+  },
+  {
+    "id": "C5",
+    "title": "高血压常见症状提示",
+    "text": "高血压可能无明显症状，出现头痛、眩晕等需结合血压测量判断。",
+    "metadata": { "drug": [], "population": [], "section": "symptom", "risk_level": "info" }
+  }
+]

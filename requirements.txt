@@ -1,0 +1,4 @@
+numpy>=1.24
+rich>=13.0
+rank-bm25
+jieba

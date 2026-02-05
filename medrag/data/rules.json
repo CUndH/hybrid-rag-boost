@@ -1,0 +1,7 @@
+[
+  {
+    "when": { "drug": "依那普利", "population": "孕妇" },
+    "force_evidence_ids": ["E1"],
+    "message": "规则触发：孕妇 + 依那普利 → 妊娠期禁用（强制提示）"
+  }
+]
