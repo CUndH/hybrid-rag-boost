@@ -1,9 +1,88 @@
 {
-  "drugs": {
-    "氨氯地平": { "aliases": ["氨氯地平","苯磺酸氨氯地平","络活喜","Norvasc","Amlodipine"], "priority": 10 },
-    "依那普利": { "aliases": ["依那普利","Enalapril"], "priority": 10 }
+  "drug": {
+    "amlodipine": "amlodipine",
+    "norvasc": "amlodipine",
+    "络活喜": "amlodipine",
+
+    "enalapril": "enalapril",
+    "vasotec": "enalapril",
+    "依那普利": "enalapril",
+
+    "losartan": "losartan",
+    "cozaar": "losartan",
+    "氯沙坦": "losartan",
+
+    "valsartan": "valsartan",
+    "diovan": "valsartan",
+    "缬沙坦": "valsartan",
+
+    "metformin": "metformin",
+    "glucophage": "metformin",
+    "二甲双胍": "metformin",
+
+    "atorvastatin": "atorvastatin",
+    "lipitor": "atorvastatin",
+    "阿托伐他汀": "atorvastatin",
+
+    "simvastatin": "simvastatin",
+    "zocor": "simvastatin",
+    "辛伐他汀": "simvastatin",
+
+    "aspirin": "aspirin",
+    "阿司匹林": "aspirin",
+
+    "ibuprofen": "ibuprofen",
+    "advil": "ibuprofen",
+    "布洛芬": "ibuprofen",
+
+    "warfarin": "warfarin",
+    "coumadin": "warfarin",
+    "华法林": "warfarin",
+
+    "apixaban": "apixaban",
+    "eliquis": "apixaban",
+    "阿哌沙班": "apixaban",
+
+    "clopidogrel": "clopidogrel",
+    "plavix": "clopidogrel",
+    "氯吡格雷": "clopidogrel",
+
+    "omeprazole": "omeprazole",
+    "prilosec": "omeprazole",
+    "奥美拉唑": "omeprazole",
+
+    "amoxicillin": "amoxicillin",
+    "amoxil": "amoxicillin",
+    "阿莫西林": "amoxicillin",
+
+    "azithromycin": "azithromycin",
+    "zithromax": "azithromycin",
+    "阿奇霉素": "azithromycin",
+
+    "levothyroxine": "levothyroxine",
+    "synthroid": "levothyroxine",
+    "左甲状腺素": "levothyroxine",
+
+    "sertraline": "sertraline",
+    "zoloft": "sertraline",
+    "舍曲林": "sertraline",
+
+    "albuterol": "albuterol",
+    "ventolin": "albuterol",
+    "沙丁胺醇": "albuterol"
   },
-  "populations": {
-    "孕妇": { "aliases": ["孕妇","妊娠","孕期","怀孕","妊娠期"], "priority": 5 }
+  "population": {
+    "孕妇": "pregnancy",
+    "妊娠": "pregnancy",
+    "怀孕": "pregnancy",
+
+    "哺乳期": "lactation",
+    "哺乳": "lactation",
+
+    "儿童": "pediatrics",
+    "小孩": "pediatrics",
+
+    "老人": "geriatrics",
+    "老年人": "geriatrics"
   }
 }
